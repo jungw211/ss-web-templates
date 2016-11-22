@@ -3,6 +3,6 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: samsung-web-templates
-  host: samsung-web-templates
+  name: samsung-web-microsite01
+  host: microsite-sec01
   disk_quota: 1024M
